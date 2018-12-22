@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kidalica.API", "kidalica.API\kidalica.API.csproj", "{96E878A4-6F1B-4021-A1F4-2B0FFC4F055A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E878A4-6F1B-4021-A1F4-2B0FFC4F055A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E878A4-6F1B-4021-A1F4-2B0FFC4F055A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E878A4-6F1B-4021-A1F4-2B0FFC4F055A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E878A4-6F1B-4021-A1F4-2B0FFC4F055A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E567A9EC-18FF-4258-84EF-82C7F95814F0}
+	EndGlobalSection
+EndGlobal

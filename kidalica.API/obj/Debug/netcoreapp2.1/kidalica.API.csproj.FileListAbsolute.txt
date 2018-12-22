@@ -1,0 +1,15 @@
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\bin\Debug\netcoreapp2.1\kidalica.API.deps.json
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\bin\Debug\netcoreapp2.1\kidalica.API.runtimeconfig.json
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\bin\Debug\netcoreapp2.1\kidalica.API.runtimeconfig.dev.json
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\bin\Debug\netcoreapp2.1\kidalica.API.dll
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\bin\Debug\netcoreapp2.1\kidalica.API.pdb
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.csprojAssemblyReference.cache
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.csproj.CoreCompileInputs.cache
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.RazorAssemblyInfo.cache
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.RazorAssemblyInfo.cs
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.AssemblyInfoInputs.cache
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.AssemblyInfo.cs
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.RazorTargetAssemblyInfo.cache
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.dll
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\obj\Debug\netcoreapp2.1\kidalica.API.pdb
+C:\Users\ski\Desktop\kidalica\kidalica.API\kidalica.API\bin\Debug\netcoreapp2.1\nlog.config
