@@ -33,8 +33,6 @@ namespace kidalica.API
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            //OVO MORA DA BI RADILO MANY TO MANY
-            //Mamu mu jebem
             services.AddMvc().AddJsonOptions(options => {
             options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
             options.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
@@ -42,7 +40,7 @@ namespace kidalica.API
             }); 
 
             services.AddDbContext<DataContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddCors(); //da bi nam radio http iz angulara
+            services.AddCors(); 
             services.AddScoped<IRepository, DbRepository>(); // DEPENDENCY INJECTION
             services.AddAutoMapper();
         }
@@ -58,7 +56,7 @@ namespace kidalica.API
             {
                 app.UseHsts();
             }
-            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());// da bi nam radio http iz angulara.
+            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             app.UseHttpsRedirection();
             app.UseMvc();
         }
