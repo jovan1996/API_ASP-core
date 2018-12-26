@@ -18,7 +18,7 @@ namespace kidalica.API.Data
         void PutPostAsync(Post post);
         void PostPostAsync(Post post);
         void DeletePostAsync(int postId);
-        // koristimo kada dohvatamo preko ID-ja, ovim vraca Bar request, odnosno 404, ukoliko nepostoji u bazi
+        // koristimo kada dohvatamo preko ID-ja, ovim vraca Bad request, odnosno 404, ukoliko ne postoji u bazi
         Task<bool> HasPostAsync(int postId);
 
         //Categories
